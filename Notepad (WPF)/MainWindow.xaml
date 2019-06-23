@@ -1,0 +1,56 @@
+﻿<Window x:Class="Notepad__WPF_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="725">
+    <DockPanel>
+        <ToolBarTray DockPanel.Dock="Top">
+            <ToolBar>
+                <Button Command="Cut" ToolTip="Cut selection to clipbourd" ToolBar.OverflowMode="AsNeeded" >
+                    <Image Source="img/Cut_16x16.png" />
+                </Button>
+
+
+                <Button Command="Copy" ToolTip="Copy selection to clipbourd" ToolBar.OverflowMode="AsNeeded" >
+                    <Image Source="img/Copy v2_16x16.png" />
+                </Button>
+
+                <Button Command="Paste" ToolTip="Paste selection to clipbourd" ToolBar.OverflowMode="AsNeeded" >
+                    <Image Source="img/Paste_16x16.png" />
+                </Button>
+            </ToolBar>
+            
+            <ToolBar>
+                <Label>Font:</Label>
+                <ComboBox Name="cbFonts" MinWidth="100" SelectionChanged="cbFonts_SelectionChanged"></ComboBox>
+
+                <Separator />
+                <Label>Font Size:</Label>
+                <ComboBox Name="cbFontSize" SelectionChanged="cbFontSize_SelectionChanged_1">
+                    <ComboBoxItem IsSelected="True">6</ComboBoxItem>
+                </ComboBox>
+                <Separator />
+
+                <Button Command="EditingCommands.ToggleBold" ToolBar.OverflowMode="AsNeeded" Width="22" Height="22" Name="btnTextBold">
+                    <Image Source="img/text-bold.png" />
+                </Button>
+                <Button Command="EditingCommands.ToggleItalic" ToolBar.OverflowMode="AsNeeded" Width="22" Height="22" Name="btnTextItalic">
+                    <Image Source="img/text-italic.png" />
+                </Button>
+                <Button Command="EditingCommands.ToggleUnderline" ToolBar.OverflowMode="AsNeeded" Width="22" Height="22" Name="btnTextUnderline">
+                    <Image Source="img/text-underline.png" />
+                </Button>
+            </ToolBar>
+            <ToolBar>
+                <Button Click="btnSave_Click_1"  Name="btnSave">Save</Button>
+            </ToolBar>
+        </ToolBarTray>
+
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <TextBlock Name="tblCursorPosition" />
+            </StatusBarItem>
+        </StatusBar>
+
+        <RichTextBox AcceptsReturn="True"  Name="tbxEditor" SelectionChanged="TextBox_SelectionChanged" />
+    </DockPanel>
+</Window>

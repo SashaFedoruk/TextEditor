@@ -1,0 +1,26 @@
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\bin\Debug\Notepad (WPF).exe.config
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\obj\Debug\MainWindow.baml
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\obj\Debug\MainWindow.g.cs
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\obj\Debug\App.g.cs
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF)_MarkupCompile.cache
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF).g.resources
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad__WPF_.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF).csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\bin\Debug\Notepad (WPF).exe
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\bin\Debug\Notepad (WPF).pdb
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF).exe
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF).pdb
+c:\users\александр\documents\visual studio 2013\Projects\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF).csprojResolveAssemblyReference.cache
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\bin\Debug\Notepad (WPF).exe.config
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF).exe
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF).pdb
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\bin\Debug\Notepad (WPF).exe
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\bin\Debug\Notepad (WPF).pdb
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF).csprojResolveAssemblyReference.cache
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\obj\Debug\MainWindow.baml
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\obj\Debug\MainWindow.g.cs
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\obj\Debug\App.g.cs
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF)_MarkupCompile.cache
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF).g.resources
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad__WPF_.Properties.Resources.resources
+C:\Users\user.STEP\Desktop\Notepad (WPF)\Notepad (WPF)\obj\Debug\Notepad (WPF).csproj.GenerateResource.Cache
